@@ -9,4 +9,5 @@ var Video = Backbone.Model.extend({
 
 //Feature - collection of Video models
 var Videos = Backbone.Collection.extend({
-    model:Video});
+    model:Video
+});
